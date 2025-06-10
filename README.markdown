@@ -9,6 +9,8 @@ _A C++ console application for essential road travel calculations, featuring a c
 
 **RoadTrip Calculator Pro** is a handy C++ console application designed to assist with common road travel calculations. Users can easily determine essential parameters such as **travel time**, **minimum required speed**, or **total road length** based on provided inputs. The application features a user-friendly, colorful interface for better interaction, robust input validation to ensure data integrity (accepting only positive numerical values), and an error logging mechanism that records any issues to `error_log.txt`. It's a practical tool for quick estimations related to journey planning.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   ⏱️ **Calculate Travel Time**: Determine the estimated time a journey will take based on a given average speed and total distance.
@@ -21,9 +23,16 @@ _A C++ console application for essential road travel calculations, featuring a c
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, input prompts for each calculation type, and example results._
 
-_This section will be updated with screenshots showcasing the main menu, input prompts for each calculation type, and example results._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 

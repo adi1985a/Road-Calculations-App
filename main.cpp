@@ -41,10 +41,10 @@ int main() {
             case 2: calculateMinSpeed(); break;
             case 3: calculateRoadLength(); break;
             case 4: 
-                cout << CYAN << "\n*******************************************" << endl;
-                cout << "*          Thank you for using           *" << endl;
-                cout << "*         Road Calculations App          *" << endl;
-                cout << "*******************************************" << RESET << endl;
+                cout << CYAN << "\n******************************************" << endl;
+                cout <<           "*          Thank you for using           *" << endl;
+                cout <<           "*         Road Calculations App          *" << endl;
+                cout <<           "******************************************" << RESET << endl;
                 break;
             default:
                 cout << YELLOW << "Invalid option!" << RESET << endl;
@@ -59,7 +59,7 @@ int main() {
 void displayHeader() {
     cout << MAGENTA;
     cout << "************************************************" << endl;
-    cout << "*           ROAD CALCULATIONS v1.0              *" << endl;
+    cout << "*           ROAD CALCULATIONS v1.0             *" << endl;
     cout << "*          Created by Adrian Lesniak           *" << endl;
     cout << "************************************************" << endl;
     cout << CYAN;
